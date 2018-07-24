@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Usage by Web API">0254a7184feb53009dca0f5e9310c744</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2016-01-21 16:17:26">6364fbd29f811200ef4afa7dc67fcf69</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-23 09:20:53</sys_created_on>
+        <sys_id>0254a7184feb53009dca0f5e9310c746</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0254a7184feb53009dca0f5e9310c744</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_0254a7184feb53009dca0f5e9310c746</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-23 09:20:53</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>
